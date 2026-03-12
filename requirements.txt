@@ -1,0 +1,43 @@
+# Core deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+diffusers>=0.27.0
+transformers>=4.38.0
+accelerate>=0.27.0
+xformers>=0.0.23
+
+# ControlNet and SD utilities
+controlnet-aux>=0.0.7
+invisible-watermark>=0.2.0
+
+# Background removal
+rembg>=2.0.50
+
+# Super resolution
+basicsr>=1.4.2
+realesrgan>=0.3.0
+
+# Image processing
+Pillow>=10.0.0
+opencv-python>=4.8.0
+scikit-image>=0.21.0
+imageio>=2.31.0
+
+# Evaluation metrics
+lpips>=0.1.4
+pytorch-fid>=0.3.0
+clip>=1.0
+
+# Data handling
+datasets>=2.14.0
+huggingface-hub>=0.20.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualization and demo
+matplotlib>=3.7.0
+gradio>=4.0.0
+tqdm>=4.65.0
+
+# Experiment tracking
+wandb>=0.16.0
