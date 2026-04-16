@@ -52,7 +52,3 @@ pip install -r requirements.txt
 ## Course
 Generative Deep Learning — Final Project (2026)
 
-## Team
-- Roshan Syed
-- Abhigna
-- (+ 2-3 team members)
